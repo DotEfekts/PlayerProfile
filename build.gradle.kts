@@ -6,7 +6,7 @@ plugins {
   eclipse
 }
 
-group = "net.efektion"
+group = "net.dotefekts"
 version = "1.0.0-SNAPSHOT"
 description = "Spigot plugin for switching player profiles and spoofing other players."
 
